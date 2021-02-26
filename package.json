@@ -1,0 +1,14 @@
+{
+  "name": "chartjs-plugin-roundedbar-v2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/chartjs-plugin-roundedbar-v2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Igor dos Santos Amado",
+  "license": "MIT",
+  "dependencies": {
+    "chart.js": "^2.9.4"
+  }
+}
